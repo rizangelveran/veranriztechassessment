@@ -1,0 +1,390 @@
+{
+    "country": "Philippines",
+    "regions": [
+      {
+        "region": "Ilocos Region",
+        "island": "Luzon",
+        "provinces": [
+          {
+            "province": "Ilocos Norte",
+            "city": {
+              "capital_city": "Laoag",
+              "biggest_city": "Laoag"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 147655,
+                  "leni_robredo": 4500,
+                  "ping_lacson":918,
+                  "isko_moreno_domagoso":707,
+                  "manny_pacquiao":588
+                },
+                "vice-president": {
+                  "sara_duterte": 138706,
+                  "vicente_tito_sotto":7510,
+                  "kiko_pangilinan": 3583,
+                  "doc_willie_ong":1415,
+                  "lito_atienza":260
+                }
+            }
+          },
+          {
+            "province": "Ilocos Sur",
+            "city": {
+              "capital_city": "Vigan",
+              "biggest_city": "Vigan"
+            }
+          },
+          {
+            "province": "La Union",
+            "city": {
+              "capital_city": "San Fernando",
+              "biggest_city": "San Fernando"
+            }
+          },
+          {
+            "province": "Pangasinan",
+            "city": {
+              "capital_city": "Lingayen",
+              "biggest_city": "Dagupan"
+            }
+          }
+        ]
+      },
+      {
+        "region": "Cagayan Valley",
+        "island": "Luzon",
+        "provinces": [
+          {
+            "province": "Batanes",
+            "city": {
+              "capital_city": "Basco",
+              "biggest_city": "Itbayat"
+            }
+          },
+          {
+            "province": "Cagayan",
+            "city": {
+              "capital_city": "Tugegarao",
+              "biggest_city": "Solana"
+            }
+          },
+          {
+            "province": "Isabela",
+            "city": {
+              "capital_city": "Ilagan City",
+              "biggest_city": "Santiago City"
+            }
+          },
+          {
+            "province": "Nueva Viscaya",
+            "city": {
+              "capital_city": "Bayombong",
+              "biggest_city": "Solano"
+            }
+          },
+          {
+            "province": "Quirino",
+            "city": {
+              "capital_city": "Cabarroguis",
+              "biggest_city": "Diffun"
+            }
+          }
+        ]
+      },
+      {
+        "region": "Central Luzon",
+        "island": "Luzon",
+        "provinces": [
+          {
+            "province": "Aurora",
+            "city": {
+              "capital_city": "Baler",
+              "biggest_city": "Baler"
+            }
+          },
+          {
+            "province": "Bataan",
+            "city": {
+              "capital_city": "Balanga",
+              "biggest_city": "Balanga"
+            }
+          },
+          {
+            "province": "Bulacan",
+            "city": {
+              "capital_city": "Malolos",
+              "biggest_city": "San Jose del Monte"
+            }
+          },
+          {
+            "province": "Nueva Ecija",
+            "city": {
+              "capital_city": "Palayan",
+              "biggest_city": "Cabanatuan"
+            }
+          },
+          {
+            "province": "Pampanga",
+            "city": {
+              "capital_city": "San Fernando",
+              "biggest_city": "Angeles"
+            }
+          },
+          {
+            "province": "Tarlac",
+            "city": {
+              "capital_city": "Tarlac City",
+              "biggest_city": "Tarlac City"
+            }
+          },
+          {
+            "province": "Zambales",
+            "city": {
+              "capital_city": "Iba",
+              "biggest_city": "Olongapo"
+            }
+          }
+        ]
+      },
+      {
+        "region": "Calabarzon",
+        "island": "Luzon",
+        "provinces": [
+          {
+            "province": "Cavite",
+            "city": {
+              "capital_city": "Trece Martires",
+              "biggest_city": "Dasmariñas"
+            }
+          },
+          {
+            "province": "Laguna",
+            "city": {
+              "capital_city": "Santa Cruz",
+              "biggest_city": "Calamba"
+            }
+          },
+          {
+            "province": "Batangas",
+            "city": {
+              "capital_city": "Batangas City",
+              "biggest_city": "Lipa"
+            }
+          },
+          {
+            "province": "Rizal",
+            "city": {
+              "capital_city": "Antipolo",
+              "biggest_city": "Antipolo"
+            }
+          },
+          {
+            "province": "Quezon",
+            "city": {
+              "capital_city": "Lucena",
+              "biggest_city": "Lucena"
+            }
+          }
+        ]
+      },
+      {
+        "region": "Mimaropa",
+        "island": "Luzon",
+        "provinces": [
+          {
+            "province": "Marinduque",
+            "city": {
+              "capital_city": "Boac",
+              "biggest_city": "Santa Cruz"
+            }
+          },
+          {
+            "province": "Occidental Mindoro",
+            "city": {
+              "capital_city": "Mamburao",
+              "biggest_city": "San Jose"
+            }
+          },
+          {
+            "province": "Oriental Mindoro",
+            "city": {
+              "capital_city": "Calapan",
+              "biggest_city": "Naujan"
+            }
+          },
+          {
+            "province": "Palawan",
+            "city": {
+              "capital_city": "Puerto Princesa",
+              "biggest_city": "Narra"
+            }
+          },
+          {
+            "province": "Romblon",
+            "city": {
+              "capital_city": "Romblon",
+              "biggest_city": "Odiongan"
+            }
+          }
+        ]
+      },
+      {
+        "region": "Bicol Region",
+        "island": "Luzon",
+        "provinces": [
+          {
+            "province": "Albay",
+            "city": {
+              "capital_city": "Legazpi",
+              "biggest_city": "Ligao"
+            }
+          },
+          {
+            "province": "Camarines Norte",
+            "city": {
+              "capital_city": "Daet",
+              "biggest_city": "Labo"
+            }
+          },
+          {
+            "province": "Camarines Sur",
+            "city": {
+              "capital_city": "Pili",
+              "biggest_city": "Naga"
+            }
+          },
+          {
+            "province": "Catanduanes",
+            "city": {
+              "capital_city": "Virac",
+              "biggest_city": "Virac"
+            }
+          },
+          {
+            "province": "Masbate",
+            "city": {
+              "capital_city": "Masbate City",
+              "biggest_city": "Aroroy"
+            }
+          },
+          {
+            "province": "Sorsogon",
+            "city": {
+              "capital_city": "Sorsogon City",
+              "biggest_city": "Bulan"
+            }
+          }
+        ]
+      },
+      {
+        "region": "Western Visayas",
+        "island": "Visayas",
+        "provinces": [
+          {
+            "province": "Aklan",
+            "city": {
+              "capital_city": "Kalibo",
+              "biggest_city": "Malay"
+            }
+          },
+          {
+            "province": "Antique",
+            "city": {
+              "capital_city": "San Jose",
+              "biggest_city": "Sibalom"
+            }
+          },
+          {
+            "province": "Capiz",
+            "city": {
+              "capital_city": "Roxas City",
+              "biggest_city": "Tapaz"
+            }
+          },
+          {
+            "province": "Iloilo",
+            "city": {
+              "capital_city": "Iloilo City",
+              "biggest_city": "Passi City"
+            }
+          },
+          {
+            "province": "Guimaras",
+            "city": {
+              "capital_city": "Jordan",
+              "biggest_city": "Buenavista"
+            }
+          }
+        ]
+      },                      
+      {
+        "region": "Central Visayas",
+        "island": "Visayas",
+        "provinces": [
+          {
+            "province": "Cebu",
+            "city": {
+              "capital_city": "Cebu City",
+              "biggest_city": "Cebu City"
+            }
+          },
+          {
+            "province": "Bohol",
+            "city": {
+              "capital_city": "Tagbilaran",
+              "biggest_city": "Tagbilaran"
+            }
+          },
+          {
+            "province": "Negros Oriental",
+            "city": {
+              "capital_city": "Dumaguete",
+              "biggest_city": "Dumaguete"
+            }
+          },
+          {
+            "province": "Siquijor",
+            "city": {
+              "capital_city": "Siquijor",
+              "biggest_city": "Siquijor"
+            }
+          }
+        ]
+      },
+      {
+        "region": "Davao Region",
+        "island": "Mindanao",
+        "provinces": [
+          {
+            "province": "Davao del Norte",
+            "city": {
+              "capital_city": "Tagum",
+              "biggest_city": "Tagum"
+            }
+          },
+          {
+            "province": "Davao del Sur",
+            "city": {
+              "capital_city": "Digos",
+              "biggest_city": "Digos"
+            }
+          },
+          {
+            "province": "Davao Oriental",
+            "city": {
+              "capital_city": "Mati",
+              "biggest_city": "Mati"
+            }
+          },
+          {
+            "province": "Davao de Oro",
+            "city": {
+              "capital_city": "Nabunturan",
+              "biggest_city": "Nabunturan"
+            }
+          }
+        ]
+      }
+    ]
+  }
