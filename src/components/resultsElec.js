@@ -164,7 +164,7 @@ const ElectionResults = () => {
     };
 
     if (!data) {
-        return <div>Loading...
+        return <div>Loading.....
             <img src={lod} />
         </div>;
     }
