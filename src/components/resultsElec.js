@@ -143,7 +143,7 @@ const ElectionResults = () => {
             return (
                 <div className="resDiv">
                     <h2>Results for {selectedProvince}, {selectedCity}</h2>
-                    <ol className="">
+                    <ol>
                         {provinceResults.map(([candidate, votes]) => (
                             <li key={candidate}>
                                 {reverseStrings
@@ -154,7 +154,7 @@ const ElectionResults = () => {
                         ))}
                     </ol>
                     <button onClick={handleButtonClick}>
-                        {reverseStrings ? "Restore Data" : "Reverse Data"}
+                        {reverseStrings ? "Restore String" : "Reverse String"}
                     </button>
                 </div>
             );
@@ -164,7 +164,7 @@ const ElectionResults = () => {
     };
 
     if (!data) {
-        return <div>Loading.....
+        return <div>Loading...
             <img src={lod} />
         </div>;
     }
