@@ -248,7 +248,7 @@
         "island": "Luzon",
         "provinces": [
           {
-            "province": "Metro Manila",
+            "province": "Manila",
             "city": {
               "capital_city": "Manila"
             },
@@ -270,7 +270,7 @@
             }
           },
           {
-            "province": "Metro Manila",
+            "province": "Caloocan",
             "city": {
               "capital_city": "Caloocan"
             },
@@ -292,7 +292,7 @@
             }
           },
           {
-            "province": "Metro Manila",
+            "province": "Mandaluyong",
             "city": {
               "capital_city": "Mandaluyong"
             },
@@ -314,7 +314,7 @@
             }
           },
           {
-            "province": "Metro Manila",
+            "province": "Pasig",
             "city": {
               "capital_city": "Pasig"
             },
@@ -336,7 +336,7 @@
             }
           },
           {
-            "province": "Metro Manila",
+            "province": "Makati",
             "city": {
               "capital_city": "Makati"
             },
@@ -358,7 +358,7 @@
             }
           },
           {
-            "province": "Metro Manila",
+            "province": "Taguig",
             "city": {
               "capital_city": "Taguig"
             },
@@ -380,7 +380,7 @@
             }
           },
           {
-            "province": "Metro Manila",
+            "province": "Las Piñas",
             "city": {
               "capital_city": "Las Piñas"
             },
@@ -402,7 +402,7 @@
             }
           },
           {
-            "province": "Metro Manila",
+            "province": "Las Piñas",
             "city": {
               "capital_city": "Parañaque"
             },
@@ -424,7 +424,7 @@
             }
           },
           {
-            "province": "Metro Manila",
+            "province": "Muntinlupa",
             "city": {
               "capital_city": "Muntinlupa"
             },
@@ -446,7 +446,7 @@
             }
           },
           {
-            "province": "Metro Manila",
+            "province": "Valenzuela",
             "city": {
               "capital_city": "Valenzuela"
             },
@@ -468,7 +468,7 @@
             }
           },
           {
-            "province": "Metro Manila",
+            "province": "San Juan",
             "city": {
               "capital_city": "San Juan"
             },
@@ -490,7 +490,7 @@
             }
           },
           {
-            "province": "Metro Manila",
+            "province": "San Juan",
             "city": {
               "capital_city": "Pateros"
             },
@@ -512,7 +512,7 @@
             }
           },
           {
-            "province":"Metro Manila",
+            "province":"Quezon City",
             "city":{
               "capital_city":"Quezon City"
             },
