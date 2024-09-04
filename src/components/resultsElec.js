@@ -15,7 +15,7 @@ const ElectionResults = () => {
 
     useEffect(() => {
         setLoading(true);
-        fetch("/resultsElection.json")
+        fetch("../resultsElection.json")
             .then((response) => response.json())
             .then((jsonData) => {
                 setTimeout(() => {
