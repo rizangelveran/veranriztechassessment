@@ -1,0 +1,2210 @@
+{
+    "country": "Philippines",
+    "regions": [
+      {
+        "region": "Ilocos Region",
+        "island": "Luzon",
+        "provinces": [
+          {
+            "province": "Ilocos Norte",
+            "city": {
+              "capital_city": "Laoag",
+              "biggest_city": "Laoag"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 356221,
+                  "leni_robredo": 10043,
+                  "ping_lacson":1928,
+                  "isko_moreno_domagoso":1426,
+                  "manny_pacquiao":1046
+                },
+                "vice-president": {
+                  "sara_duterte": 342554,
+                  "vicente_tito_sotto":10303,
+                  "kiko_pangilinan": 7973,
+                  "doc_willie_ong":2708,
+                  "carlos_serapio":415
+                }
+            }
+          },
+          {
+            "province": "Ilocos Sur",
+            "city": {
+              "capital_city": "Vigan",
+              "biggest_city": "Vigan"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 391436,
+                  "leni_robredo": 15653,
+                  "ping_lacson":1753,
+                  "isko_moreno_domagoso":1508,
+                  "manny_pacquiao":1282
+                },
+                "vice-president": {
+                  "sara_duterte": 366454,
+                  "vicente_tito_sotto":17930,
+                  "kiko_pangilinan": 12606,
+                  "doc_willie_ong":4453,
+                  "lito_atienza":461
+                }
+            }
+          },
+          {
+            "province": "La Union",
+            "city": {
+              "capital_city": "San Fernando",
+              "biggest_city": "San Fernando"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 425792,
+                  "leni_robredo": 24566,
+                  "ping_lacson":3378,
+                  "isko_moreno_domagoso":2868,
+                  "manny_pacquiao":2859
+                },
+                "vice-president": {
+                  "sara_duterte": 379714,
+                  "vicente_tito_sotto":45276,
+                  "kiko_pangilinan": 19302,
+                  "doc_willie_ong":8158,
+                  "lito_atienza":617
+                }
+            }
+          },
+          {
+            "province": "Pangasinan",
+            "city": {
+              "capital_city": "Lingayen",
+              "biggest_city": "Dagupan"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 1295814,
+                  "leni_robredo": 248056,
+                  "ping_lacson":21608,
+                  "isko_moreno_domagoso":37813,
+                  "manny_pacquiao":26922
+                },
+                "vice-president": {
+                  "sara_duterte": 987170,
+                  "vicente_tito_sotto":400835,
+                  "kiko_pangilinan": 154672,
+                  "doc_willie_ong":59815,
+                  "lito_atienza":5362
+                }
+            }
+          }
+        ]
+      },
+      {
+        "region": "Cordillera Administrative Region",
+        "island": "Luzon",
+        "provinces": [
+          {
+            "province": "Abra",
+            "city": {
+              "capital_city": "Bangued",
+              "biggest_city": "Bangued"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 147655,
+                  "leni_robredo": 4500,
+                  "ping_lacson":918,
+                  "isko_moreno_domagoso":707,
+                  "manny_pacquiao":588
+                },
+                "vice-president": {
+                  "sara_duterte": 138706,
+                  "vicente_tito_sotto":7510,
+                  "kiko_pangilinan": 3583,
+                  "doc_willie_ong":1415,
+                  "lito_atienza":260
+                }
+            }
+          },
+          {
+            "province": "Apayao",
+            "city": {
+              "capital_city": "Kabugao",
+              "biggest_city": "Conner"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 60181,
+                  "leni_robredo": 1879,
+                  "ping_lacson":449,
+                  "isko_moreno_domagoso":368,
+                  "manny_pacquiao":906
+                },
+                "vice-president": {
+                  "sara_duterte": 54077,
+                  "vicente_tito_sotto":5109,
+                  "kiko_pangilinan": 1825,
+                  "doc_willie_ong":570,
+                  "manny_lopez":189
+                }
+            }
+          },
+          {
+            "province": "Benguet",
+            "city": {
+              "capital_city": "La Trinidad",
+              "biggest_city": "Itogon"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 166541,
+                  "leni_robredo": 21682,
+                  "ping_lacson":7594,
+                  "isko_moreno_domagoso":3697,
+                  "manny_pacquiao":5299
+                },
+                "vice-president": {
+                  "sara_duterte": 147563,
+                  "vicente_tito_sotto":33380,
+                  "kiko_pangilinan": 14786,
+                  "doc_willie_ong":5329,
+                  "lito_atienza":483
+                }
+            }
+          },
+          {
+            "province": "Ifugao",
+            "city": {
+              "capital_city": "Lagawe",
+              "biggest_city": "Banaue"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 82479,
+                  "leni_robredo": 15585,
+                  "ping_lacson":2417,
+                  "isko_moreno_domagoso":2233,
+                  "manny_pacquiao":6573
+                },
+                "vice-president": {
+                  "sara_duterte": 73753,
+                  "vicente_tito_sotto":14680,
+                  "kiko_pangilinan": 13335,
+                  "doc_willie_ong":3252,
+                  "manny_lopez":605
+                }
+            }
+          },
+          {
+            "province": "Kalinga",
+            "city": {
+              "capital_city": "Tabuk",
+              "biggest_city": "Tabuk"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 117391,
+                  "leni_robredo": 8440,
+                  "ping_lacson":1365,
+                  "isko_moreno_domagoso":1071,
+                  "manny_pacquiao":1472
+                },
+                "vice-president": {
+                  "sara_duterte": 107673,
+                  "vicente_tito_sotto":8222,
+                  "kiko_pangilinan": 7230,
+                  "doc_willie_ong":2098,
+                  "manny_lopez":360
+                }
+            }
+          },
+          {
+            "province": "Mountain Province",
+            "city": {
+              "capital_city": "Bontoc",
+              "biggest_city": "Bauko"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 74379,
+                  "leni_robredo": 8619,
+                  "ping_lacson":2652,
+                  "isko_moreno_domagoso":1965,
+                  "manny_pacquiao":3586
+                },
+                "vice-president": {
+                  "sara_duterte": 68685,
+                  "vicente_tito_sotto":9885,
+                  "kiko_pangilinan": 6867,
+                  "doc_willie_ong":2590,
+                  "lito_atienza":289
+                }
+            }
+          }
+        ]
+      },
+      {
+        "region": "National Capital Region",
+        "island": "Luzon",
+        "provinces": [
+          {
+            "province": "Manila",
+            "city": {
+              "capital_city": "Manila"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 356167,
+                  "leni_robredo": 196179,
+                  "ping_lacson":11609,
+                  "isko_moreno_domagoso":295342,
+                  "manny_pacquiao":7069
+                },
+                "vice-president": {
+                  "sara_duterte": 402676,
+                  "vicente_tito_sotto":144278,
+                  "kiko_pangilinan": 147253,
+                  "doc_willie_ong":154813,
+                  "manny_lopez":6250
+                }
+            }
+          },
+          {
+            "province": "Caloocan",
+            "city": {
+              "capital_city": "Caloocan"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 361464,
+                  "leni_robredo": 153205,
+                  "ping_lacson":13398,
+                  "isko_moreno_domagoso":34252,
+                  "manny_pacquiao":10756
+                },
+                "vice-president": {
+                  "sara_duterte": 341898,
+                  "vicente_tito_sotto":100903,
+                  "kiko_pangilinan": 89340,
+                  "doc_willie_ong":37761,
+                  "lito_atienza":1040
+                }
+            }
+          },
+          {
+            "province": "Mandaluyong",
+            "city": {
+              "capital_city": "Mandaluyong"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 101625,
+                  "leni_robredo": 64054,
+                  "ping_lacson":4574,
+                  "isko_moreno_domagoso":7998,
+                  "manny_pacquiao":2479
+                },
+                "vice-president": {
+                  "sara_duterte": 98448,
+                  "vicente_tito_sotto":25595,
+                  "kiko_pangilinan": 44537,
+                  "doc_willie_ong":11767,
+                  "lito_atienza":291
+                }
+            }
+          },
+          {
+            "province": "Pasig",
+            "city": {
+              "capital_city": "Pasig"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 207399,
+                  "leni_robredo": 141041,
+                  "ping_lacson":12824,
+                  "isko_moreno_domagoso":14183,
+                  "manny_pacquiao":7261
+                },
+                "vice-president": {
+                  "sara_duterte": 186708,
+                  "vicente_tito_sotto":78617,
+                  "kiko_pangilinan": 91615,
+                  "doc_willie_ong":24427,
+                  "lito_atienza":623
+                }
+            }
+          },
+          {
+            "province": "Makati",
+            "city": {
+              "capital_city": "Makati"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 207527,
+                  "leni_robredo": 130743,
+                  "ping_lacson":10564,
+                  "isko_moreno_domagoso":15842,
+                  "manny_pacquiao":5346
+                },
+                "vice-president": {
+                  "sara_duterte": 202151,
+                  "vicente_tito_sotto":43876,
+                  "kiko_pangilinan": 95612,
+                  "doc_willie_ong":26613,
+                  "lito_atienza":710
+                }
+            }
+          },
+          {
+            "province": "Taguig",
+            "city": {
+              "capital_city": "Taguig"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 237309,
+                  "leni_robredo": 95502,
+                  "ping_lacson":7944,
+                  "isko_moreno_domagoso":14897,
+                  "manny_pacquiao":6843
+                },
+                "vice-president": {
+                  "sara_duterte": 235744,
+                  "vicente_tito_sotto":42170,
+                  "kiko_pangilinan": 61438,
+                  "doc_willie_ong":22351,
+                  "lito_atienza":727
+                }
+            }
+          },
+          {
+            "province": "Las Piñas",
+            "city": {
+              "capital_city": "Las Piñas"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 137114,
+                  "leni_robredo": 78928,
+                  "ping_lacson":6419,
+                  "isko_moreno_domagoso":11488,
+                  "manny_pacquiao":4128
+                },
+                "vice-president": {
+                  "sara_duterte": 133732,
+                  "vicente_tito_sotto":32552,
+                  "kiko_pangilinan": 54231,
+                  "doc_willie_ong":16409,
+                  "lito_atienza":508
+                }
+            }
+          },
+          {
+            "province": "Las Piñas",
+            "city": {
+              "capital_city": "Parañaque"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 151638,
+                  "leni_robredo": 104716,
+                  "ping_lacson":6898,
+                  "isko_moreno_domagoso":11366,
+                  "manny_pacquiao":5339
+                },
+                "vice-president": {
+                  "sara_duterte": 147253,
+                  "vicente_tito_sotto":40348,
+                  "kiko_pangilinan": 73157,
+                  "doc_willie_ong":17838,
+                  "lito_atienza":661
+                }
+            }
+          },
+          {
+            "province": "Muntinlupa",
+            "city": {
+              "capital_city": "Muntinlupa"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 136465,
+                  "leni_robredo": 88889,
+                  "ping_lacson":6105,
+                  "isko_moreno_domagoso":11254,
+                  "manny_pacquiao":5056
+                },
+                "vice-president": {
+                  "sara_duterte": 128145,
+                  "vicente_tito_sotto":42082,
+                  "kiko_pangilinan": 58583,
+                  "doc_willie_ong":17584,
+                  "lito_atienza":554
+                }
+            }
+          },
+          {
+            "province": "Valenzuela",
+            "city": {
+              "capital_city": "Valenzuela"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 225021,
+                  "leni_robredo": 101529,
+                  "ping_lacson":9701,
+                  "isko_moreno_domagoso":14573,
+                  "manny_pacquiao":6958
+                },
+                "vice-president": {
+                  "sara_duterte": 214014,
+                  "vicente_tito_sotto":59322,
+                  "kiko_pangilinan": 59386,
+                  "doc_willie_ong":23342,
+                  "lito_atienza":610
+                }
+            }
+          },
+          {
+            "province": "San Juan",
+            "city": {
+              "capital_city": "San Juan"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 42636,
+                  "leni_robredo": 30392,
+                  "ping_lacson":2511,
+                  "isko_moreno_domagoso":3069,
+                  "manny_pacquiao":1201
+                },
+                "vice-president": {
+                  "sara_duterte": 42499,
+                  "vicente_tito_sotto":9876,
+                  "kiko_pangilinan": 22107,
+                  "doc_willie_ong":5155,
+                  "lito_atienza":152
+                }
+            }
+          },
+          {
+            "province": "San Juan",
+            "city": {
+              "capital_city": "Pateros"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 17627,
+                  "leni_robredo": 11400,
+                  "ping_lacson":1038,
+                  "isko_moreno_domagoso":1817,
+                  "manny_pacquiao":746
+                },
+                "vice-president": {
+                  "sara_duterte": 15934,
+                  "vicente_tito_sotto":6926,
+                  "kiko_pangilinan": 7160,
+                  "doc_willie_ong":2445,
+                  "lito_atienza":62
+                }
+            }
+          },
+          {
+            "province":"Quezon City",
+            "city":{
+              "capital_city":"Quezon City"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 629509,
+                  "leni_robredo": 376102,
+                  "ping_lacson":25192,
+                  "isko_moreno_domagoso":44613,
+                  "manny_pacquiao":16200
+                },
+                "vice-president": {
+                  "sara_duterte": 611039,
+                  "vicente_tito_sotto":160848,
+                  "kiko_pangilinan": 253112,
+                  "doc_willie_ong":61910,
+                  "lito_atienza":1730
+                }
+            }
+          }
+        ]
+      },         
+      {
+        "region": "Cagayan Valley",
+        "island": "Luzon",
+        "provinces": [
+          {
+            "province": "Batanes",
+            "city": {
+              "capital_city": "Basco",
+              "biggest_city": "Itbayat"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 4358,
+                  "leni_robredo": 5195,
+                  "ping_lacson":567,
+                  "isko_moreno_domagoso":725,
+                  "manny_pacquiao":182
+                },
+                "vice-president": {
+                  "sara_duterte": 4523,
+                  "vicente_tito_sotto":2351,
+                  "kiko_pangilinan": 3511,
+                  "doc_willie_ong":330,
+                  "lito_atienza":28
+                }
+            }
+          },
+          {
+            "province": "Cagayan",
+            "city": {
+              "capital_city": "Tugegarao",
+              "biggest_city": "Solana"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 556613,
+                  "leni_robredo": 47384,
+                  "ping_lacson":6000,
+                  "isko_moreno_domagoso":5644,
+                  "manny_pacquiao":5505
+                },
+                "vice-president": {
+                  "sara_duterte": 481655,
+                  "vicente_tito_sotto":65397,
+                  "kiko_pangilinan": 41863,
+                  "doc_willie_ong":9696,
+                  "manny_lopez":1987
+                }
+            }
+          },
+          {
+            "province": "Isabela",
+            "city": {
+              "capital_city": "Ilagan City",
+              "biggest_city": "Santiago City"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 685523,
+                  "leni_robredo": 69968,
+                  "ping_lacson":7105,
+                  "isko_moreno_domagoso":7999,
+                  "manny_pacquiao":12031
+                },
+                "vice-president": {
+                  "sara_duterte": 591094,
+                  "vicente_tito_sotto":93868,
+                  "kiko_pangilinan": 57245,
+                  "doc_willie_ong":13583,
+                  "lito_atienza":2750
+                }
+            }
+          },
+          {
+            "province": "Nueva Viscaya",
+            "city": {
+              "capital_city": "Bayombong",
+              "biggest_city": "Solano"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 200111,
+                  "leni_robredo": 25339,
+                  "ping_lacson":4546,
+                  "isko_moreno_domagoso":5499,
+                  "manny_pacquiao":7932
+                },
+                "vice-president": {
+                  "sara_duterte": 182477,
+                  "vicente_tito_sotto":32106,
+                  "kiko_pangilinan": 19162,
+                  "doc_willie_ong":4988,
+                  "manny_lopez":796
+                }
+            }
+          },
+          {
+            "province": "Quirino",
+            "city": {
+              "capital_city": "Cabarroguis",
+              "biggest_city": "Diffun"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 84515,
+                  "leni_robredo": 8134,
+                  "ping_lacson":2093,
+                  "isko_moreno_domagoso":2545,
+                  "manny_pacquiao":4726
+                },
+                "vice-president": {
+                  "sara_duterte": 71852,
+                  "vicente_tito_sotto":16718,
+                  "kiko_pangilinan": 7587,
+                  "doc_willie_ong":2401,
+                  "manny_lopez":443
+                }
+            }
+          }
+        ]
+      },
+      {
+        "region": "Central Luzon",
+        "island": "Luzon",
+        "provinces": [
+          {
+            "province": "Aurora",
+            "city": {
+              "capital_city": "Baler",
+              "biggest_city": "Baler"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 82896,
+                  "leni_robredo": 29586,
+                  "ping_lacson":2955,
+                  "isko_moreno_domagoso":2989,
+                  "manny_pacquiao":6056
+                },
+                "vice-president": {
+                  "sara_duterte": 73435,
+                  "vicente_tito_sotto":23639,
+                  "kiko_pangilinan": 20347,
+                  "doc_willie_ong":4257,
+                  "lito_atienza":523
+                }
+            }
+          },
+          {
+            "province": "Bataan",
+            "city": {
+              "capital_city": "Balanga",
+              "biggest_city": "Balanga"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 334642,
+                  "leni_robredo": 109757,
+                  "ping_lacson":9767,
+                  "isko_moreno_domagoso":21158,
+                  "manny_pacquiao":7452
+                },
+                "vice-president": {
+                  "sara_duterte": 286358,
+                  "vicente_tito_sotto":103596,
+                  "kiko_pangilinan": 64899,
+                  "doc_willie_ong":22018,
+                  "lito_atienza":1135
+                }
+            }
+          },
+          {
+            "province": "Bulacan",
+            "city": {
+              "capital_city": "Malolos",
+              "biggest_city": "San Jose del Monte"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 1024069,
+                  "leni_robredo": 493637,
+                  "ping_lacson":44256,
+                  "isko_moreno_domagoso":91355,
+                  "manny_pacquiao":36010
+                },
+                "vice-president": {
+                  "sara_duterte": 870629,
+                  "vicente_tito_sotto":446878,
+                  "kiko_pangilinan": 264120,
+                  "doc_willie_ong":92061,
+                  "lito_atienza":3672
+                }
+            }
+          },
+          {
+            "province": "Nueva Ecija",
+            "city": {
+              "capital_city": "Palayan",
+              "biggest_city": "Cabanatuan"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 945388,
+                  "leni_robredo": 236827,
+                  "ping_lacson":26795,
+                  "isko_moreno_domagoso":27862,
+                  "manny_pacquiao":13665
+                },
+                "vice-president": {
+                  "sara_duterte": 703042,
+                  "vicente_tito_sotto":347232,
+                  "kiko_pangilinan": 138227,
+                  "doc_willie_ong":37895,
+                  "lito_atienza":2733
+                }
+            }
+          },
+          {
+            "province": "Pampanga",
+            "city": {
+              "capital_city": "San Fernando",
+              "biggest_city": "Angeles"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 735245,
+                  "leni_robredo": 314615,
+                  "ping_lacson":15994,
+                  "isko_moreno_domagoso":47651,
+                  "manny_pacquiao":19828
+                },
+                "vice-president": {
+                  "sara_duterte": 628233,
+                  "vicente_tito_sotto":280623,
+                  "kiko_pangilinan": 172676,
+                  "doc_willie_ong":37836,
+                  "lito_atienza":2652
+                }
+            }
+          },
+          {
+            "province": "Tarlac",
+            "city": {
+              "capital_city": "Tarlac City",
+              "biggest_city": "Tarlac City"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 425599,
+                  "leni_robredo": 289600,
+                  "ping_lacson":9799,
+                  "isko_moreno_domagoso":21544,
+                  "manny_pacquiao":12462
+                },
+                "vice-president": {
+                  "sara_duterte": 334099,
+                  "vicente_tito_sotto":221227,
+                  "kiko_pangilinan": 162101,
+                  "doc_willie_ong":27935,
+                  "lito_atienza":2001
+                }
+            }
+          },
+          {
+            "province": "Zambales",
+            "city": {
+              "capital_city": "Iba",
+              "biggest_city": "Olongapo"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 226562,
+                  "leni_robredo": 87618,
+                  "ping_lacson":7444,
+                  "isko_moreno_domagoso":13087,
+                  "manny_pacquiao":8682
+                },
+                "vice-president": {
+                  "sara_duterte": 189343,
+                  "vicente_tito_sotto":71646,
+                  "kiko_pangilinan": 57535,
+                  "doc_willie_ong":17777,
+                  "lito_atienza":1205
+                }
+            }
+          }
+        ]
+      },
+      {
+        "region": "Calabarzon",
+        "island": "Luzon",
+        "provinces": [
+          {
+            "province": "Cavite",
+            "city": {
+              "capital_city": "Trece Martires",
+              "biggest_city": "Dasmariñas"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 1121108,
+                  "leni_robredo": 497630,
+                  "ping_lacson":91630,
+                  "isko_moreno_domagoso":80436,
+                  "manny_pacquiao":40041
+                },
+                "vice-president": {
+                  "sara_duterte": 1031113,
+                  "vicente_tito_sotto":376776,
+                  "kiko_pangilinan": 297033,
+                  "doc_willie_ong":108769,
+                  "lito_atienza":4959
+                }
+            }
+          },
+          {
+            "province": "Laguna",
+            "city": {
+              "capital_city": "Santa Cruz",
+              "biggest_city": "Calamba"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 925307,
+                  "leni_robredo": 503190,
+                  "ping_lacson":42825,
+                  "isko_moreno_domagoso":85773,
+                  "manny_pacquiao":35822
+                },
+                "vice-president": {
+                  "sara_duterte": 809611,
+                  "vicente_tito_sotto":369267,
+                  "kiko_pangilinan": 302235,
+                  "doc_willie_ong":94802,
+                  "lito_atienza":4793
+                }
+            }
+          },
+          {
+            "province": "Batangas",
+            "city": {
+              "capital_city": "Batangas City",
+              "biggest_city": "Lipa"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 719492,
+                  "leni_robredo": 655811,
+                  "ping_lacson":43164,
+                  "isko_moreno_domagoso":88497,
+                  "manny_pacquiao":36268
+                },
+                "vice-president": {
+                  "sara_duterte": 668146,
+                  "vicente_tito_sotto":356903,
+                  "kiko_pangilinan": 396911,
+                  "doc_willie_ong":83850,
+                  "lito_atienza":6734
+                }
+            }
+          },
+          {
+            "province": "Rizal",
+            "city": {
+              "capital_city": "Antipolo",
+              "biggest_city": "Antipolo"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 765019,
+                  "leni_robredo": 371162,
+                  "ping_lacson":41505,
+                  "isko_moreno_domagoso":57555,
+                  "manny_pacquiao":32367
+                },
+                "vice-president": {
+                  "sara_duterte": 688173,
+                  "vicente_tito_sotto":273365,
+                  "kiko_pangilinan": 221410,
+                  "doc_willie_ong":73597,
+                  "lito_atienza":3209
+                }
+            }
+          },
+          {
+            "province": "Quezon",
+            "city": {
+              "capital_city": "Lucena",
+              "biggest_city": "Lucena"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 442347,
+                  "leni_robredo": 609758,
+                  "ping_lacson":26895,
+                  "isko_moreno_domagoso":40700,
+                  "manny_pacquiao":53713
+                },
+                "vice-president": {
+                  "sara_duterte": 401792,
+                  "vicente_tito_sotto":313073,
+                  "kiko_pangilinan": 359239,
+                  "doc_willie_ong":55268,
+                  "lito_atienza":6639
+                }
+            }
+          }
+        ]
+      },
+      {
+        "region": "Mimaropa",
+        "island": "Luzon",
+        "provinces": [
+          {
+            "province": "Marinduque",
+            "city": {
+              "capital_city": "Boac",
+              "biggest_city": "Santa Cruz"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 54145,
+                  "leni_robredo": 53129,
+                  "ping_lacson":3745,
+                  "isko_moreno_domagoso":9663,
+                  "manny_pacquiao":9691
+                },
+                "vice-president": {
+                  "sara_duterte": 54324,
+                  "vicente_tito_sotto":30692,
+                  "kiko_pangilinan": 33648,
+                  "doc_willie_ong":7111,
+                  "lito_atienza":734
+                }
+            }
+          },
+          {
+            "province": "Occidental Mindoro",
+            "city": {
+              "capital_city": "Mamburao",
+              "biggest_city": "San Jose"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 123309,
+                  "leni_robredo": 84169,
+                  "ping_lacson":8555,
+                  "isko_moreno_domagoso":11844,
+                  "manny_pacquiao":22276
+                },
+                "vice-president": {
+                  "sara_duterte": 106750,
+                  "vicente_tito_sotto":70503,
+                  "kiko_pangilinan": 55845,
+                  "doc_willie_ong":7795,
+                  "lito_atienza":1933
+                }
+            }
+          },
+          {
+            "province": "Oriental Mindoro",
+            "city": {
+              "capital_city": "Calapan",
+              "biggest_city": "Naujan"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 192890,
+                  "leni_robredo": 179001,
+                  "ping_lacson":9899,
+                  "isko_moreno_domagoso":18631,
+                  "manny_pacquiao":45611
+                },
+                "vice-president": {
+                  "sara_duterte": 177815,
+                  "vicente_tito_sotto":107377,
+                  "kiko_pangilinan": 123584,
+                  "doc_willie_ong":17883,
+                  "lito_atienza":5281
+                }
+            }
+          },
+          {
+            "province": "Palawan",
+            "city": {
+              "capital_city": "Puerto Princesa",
+              "biggest_city": "Narra"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 196086,
+                  "leni_robredo": 114070,
+                  "ping_lacson":8056,
+                  "isko_moreno_domagoso":19320,
+                  "manny_pacquiao":115989
+                },
+                "vice-president": {
+                  "sara_duterte": 208769,
+                  "vicente_tito_sotto":98514,
+                  "kiko_pangilinan": 95549,
+                  "doc_willie_ong":14844,
+                  "lito_atienza":7787
+                }
+            }
+          },
+          {
+            "province": "Romblon",
+            "city": {
+              "capital_city": "Romblon",
+              "biggest_city": "Odiongan"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 71127,
+                  "leni_robredo": 65142,
+                  "ping_lacson":5511,
+                  "isko_moreno_domagoso":10895,
+                  "manny_pacquiao":12445
+                },
+                "vice-president": {
+                  "sara_duterte": 63684,
+                  "vicente_tito_sotto":52100,
+                  "kiko_pangilinan": 35550,
+                  "doc_willie_ong":6345,
+                  "lito_atienza":823
+                }
+            }
+          }
+        ]
+      },
+      {
+        "region": "Bicol Region",
+        "island": "Luzon",
+        "provinces": [
+          {
+            "province": "Albay",
+            "city": {
+              "capital_city": "Legazpi",
+              "biggest_city": "Ligao"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 112651,
+                  "leni_robredo": 608779,
+                  "ping_lacson":4992,
+                  "isko_moreno_domagoso":6331,
+                  "manny_pacquiao":8557
+                },
+                "vice-president": {
+                  "sara_duterte": 144717,
+                  "vicente_tito_sotto":90406,
+                  "kiko_pangilinan": 444396,
+                  "doc_willie_ong":28558,
+                  "lito_atienza":3356
+                }
+            }
+          },
+          {
+            "province": "Camarines Norte",
+            "city": {
+              "capital_city": "Daet",
+              "biggest_city": "Labo"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 66995,
+                  "leni_robredo": 239353,
+                  "ping_lacson":2486,
+                  "isko_moreno_domagoso":4426,
+                  "manny_pacquiao":6133
+                },
+                "vice-president": {
+                  "sara_duterte": 70089,
+                  "vicente_tito_sotto":53982,
+                  "kiko_pangilinan": 171125,
+                  "doc_willie_ong":13721,
+                  "lito_atienza":1373
+                }
+            }
+          },
+          {
+            "province": "Camarines Sur",
+            "city": {
+              "capital_city": "Pili",
+              "biggest_city": "Naga"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 93647,
+                  "leni_robredo": 870965,
+                  "ernie_abella":2929,
+                  "isko_moreno_domagoso":3547,
+                  "manny_pacquiao":6501
+                },
+                "vice-president": {
+                  "sara_duterte": 143246,
+                  "vicente_tito_sotto":104456,
+                  "kiko_pangilinan": 653248,
+                  "doc_willie_ong":18953,
+                  "lito_atienza":4120
+                }
+            }
+          },
+          {
+            "province": "Catanduanes",
+            "city": {
+              "capital_city": "Virac",
+              "biggest_city": "Virac"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 31454,
+                  "leni_robredo": 123805,
+                  "ping_lacson":2101,
+                  "isko_moreno_domagoso":2567,
+                  "manny_pacquiao":3543
+                },
+                "vice-president": {
+                  "sara_duterte": 36363,
+                  "vicente_tito_sotto":35887,
+                  "kiko_pangilinan": 78731,
+                  "doc_willie_ong":5521,
+                  "lito_atienza":944
+                }
+            }
+          },
+          {
+            "province": "Masbate",
+            "city": {
+              "capital_city": "Masbate City",
+              "biggest_city": "Aroroy"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 162037,
+                  "leni_robredo": 186998,
+                  "ping_lacson":4008,
+                  "isko_moreno_domagoso":9388,
+                  "manny_pacquiao":64480
+                },
+                "vice-president": {
+                  "sara_duterte": 175786,
+                  "vicente_tito_sotto":73689,
+                  "kiko_pangilinan": 120197,
+                  "doc_willie_ong":11243,
+                  "lito_atienza":4767
+                }
+            }
+          },
+          {
+            "province": "Sorsogon",
+            "city": {
+              "capital_city": "Sorsogon City",
+              "biggest_city": "Bulan"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 90523,
+                  "leni_robredo": 333614,
+                  "ping_lacson":4153,
+                  "isko_moreno_domagoso":6849,
+                  "manny_pacquiao":9986
+                },
+                "vice-president": {
+                  "sara_duterte": 88438,
+                  "vicente_tito_sotto":169546,
+                  "kiko_pangilinan": 155110,
+                  "doc_willie_ong":14646,
+                  "lito_atienza":2062
+                }
+            }
+          }
+        ]
+      },
+      {
+        "region": "Western Visayas",
+        "island": "Visayas",
+        "provinces": [
+          {
+            "province": "Aklan",
+            "city": {
+              "capital_city": "Kalibo",
+              "biggest_city": "Malay"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 146323,
+                  "leni_robredo": 146284,
+                  "ping_lacson":4238,
+                  "isko_moreno_domagoso":16764,
+                  "manny_pacquiao":20087
+                },
+                "vice-president": {
+                  "sara_duterte": 140172,
+                  "vicente_tito_sotto":76230,
+                  "kiko_pangilinan": 91665,
+                  "doc_willie_ong":13745,
+                  "lito_atienza":2088
+                }
+            }
+          },
+          {
+            "province": "Antique",
+            "city": {
+              "capital_city": "San Jose",
+              "biggest_city": "Sibalom"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 115027,
+                  "leni_robredo": 142663,
+                  "ping_lacson":5312,
+                  "isko_moreno_domagoso":22126,
+                  "manny_pacquiao":30190
+                },
+                "vice-president": {
+                  "sara_duterte": 111309,
+                  "vicente_tito_sotto":69417,
+                  "kiko_pangilinan": 103175,
+                  "doc_willie_ong":14365,
+                  "lito_atienza":2510
+                }
+            }
+          },
+          {
+            "province": "Capiz",
+            "city": {
+              "capital_city": "Roxas City",
+              "biggest_city": "Tapaz"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 165903,
+                  "leni_robredo": 216236,
+                  "ping_lacson":4336,
+                  "isko_moreno_domagoso":16543,
+                  "manny_pacquiao":21667
+                },
+                "vice-president": {
+                  "sara_duterte": 176636,
+                  "vicente_tito_sotto":68876,
+                  "kiko_pangilinan": 142084,
+                  "doc_willie_ong":13623,
+                  "lito_atienza":2368
+                }
+            }
+          },
+          {
+            "province": "Iloilo",
+            "city": {
+              "capital_city": "Iloilo City",
+              "biggest_city": "Passi City"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 374144,
+                  "leni_robredo": 579525,
+                  "ping_lacson":10915,
+                  "isko_moreno_domagoso":29669,
+                  "manny_pacquiao":72381
+                },
+                "vice-president": {
+                  "sara_duterte": 364898,
+                  "vicente_tito_sotto":172034,
+                  "kiko_pangilinan": 448171,
+                  "doc_willie_ong":31910,
+                  "lito_atienza":5993
+                }
+            }
+          },
+          {
+            "province": "Guimaras",
+            "city": {
+              "capital_city": "Jordan",
+              "biggest_city": "Buenavista"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 25792,
+                  "leni_robredo": 66071,
+                  "ping_lacson":857,
+                  "isko_moreno_domagoso":3045,
+                  "manny_pacquiao":6796
+                },
+                "vice-president": {
+                  "sara_duterte": 25537,
+                  "vicente_tito_sotto":15575,
+                  "kiko_pangilinan": 52982,
+                  "doc_willie_ong":3166,
+                  "lito_atienza":696
+                }
+            }
+          }
+        ]
+      },                      
+      {
+        "region": "Central Visayas",
+        "island": "Visayas",
+        "provinces": [
+          {
+            "province": "Cebu",
+            "city": {
+              "capital_city": "Cebu City",
+              "biggest_city": "Lapu-Lapu City"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 1055985,
+                  "leni_robredo": 391080,
+                  "ping_lacson":24270,
+                  "isko_moreno_domagoso":52504,
+                  "manny_pacquiao":371183
+                },
+                "vice-president": {
+                  "sara_duterte": 1258538,
+                  "vicente_tito_sotto":247093,
+                  "kiko_pangilinan": 235010,
+                  "doc_willie_ong":38284,
+                  "lito_atienza":22124
+                }
+            }
+          },
+          {
+            "province": "Bohol",
+            "city": {
+              "capital_city": "Tagbilaran",
+              "biggest_city": "Ubay"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 501637,
+                  "leni_robredo": 141018,
+                  "ping_lacson":13058,
+                  "isko_moreno_domagoso":27334,
+                  "manny_pacquiao":88938
+                },
+                "vice-president": {
+                  "sara_duterte": 594024,
+                  "vicente_tito_sotto":59894,
+                  "kiko_pangilinan": 75125,
+                  "doc_willie_ong":13644,
+                  "lito_atienza":4820
+                }
+            }
+          }
+        ]
+      },
+      {
+        "region": "Negros Island Region",
+        "island": "Visayas",
+        "provinces": [
+          {
+            "province": "Negros Occidental",
+            "city": {
+              "capital_city": "Bacolod",
+              "biggest_city": "Kabankalan"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 482344,
+                  "leni_robredo": 527321,
+                  "ping_lacson":16283,
+                  "isko_moreno_domagoso":33333,
+                  "manny_pacquiao":177490
+                },
+                "vice-president": {
+                  "sara_duterte": 475854,
+                  "vicente_tito_sotto":259078,
+                  "kiko_pangilinan": 376288,
+                  "doc_willie_ong":35650,
+                  "lito_atienza":14596
+                }
+            }
+          },
+          {
+            "province": "Negros Oriental",
+            "city": {
+              "capital_city": "Dumaguete",
+              "biggest_city": "Bayawan"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 254806,
+                  "leni_robredo": 178236,
+                  "ping_lacson":14817,
+                  "isko_moreno_domagoso":19991,
+                  "manny_pacquiao":218511
+                },
+                "vice-president": {
+                  "sara_duterte": 346658,
+                  "vicente_tito_sotto":108574,
+                  "kiko_pangilinan": 133884,
+                  "doc_willie_ong":13774,
+                  "lito_atienza":9750
+                }
+            }
+          },
+          {
+            "province": "Siquijor",
+            "city": {
+              "capital_city": "Siquijor",
+              "biggest_city": "Lazi"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 31412,
+                  "leni_robredo": 17753,
+                  "ping_lacson":1040,
+                  "isko_moreno_domagoso":2658,
+                  "manny_pacquiao":8224
+                },
+                "vice-president": {
+                  "sara_duterte": 37979,
+                  "vicente_tito_sotto":5204,
+                  "kiko_pangilinan": 11766,
+                  "doc_willie_ong":1440,
+                  "lito_atienza":505
+                }
+            }
+          }
+        ]
+      },      
+      {
+        "region": "Eastern Visayas",
+        "island": "Visayas",
+        "provinces": [
+          {
+            "province": "Biliran",
+            "city": {
+              "capital_city": "Naval",
+              "biggest_city": "Caibiran"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 60687,
+                  "leni_robredo": 11851,
+                  "ping_lacson":856,
+                  "isko_moreno_domagoso":2445,
+                  "manny_pacquiao":17347
+                },
+                "vice-president": {
+                  "sara_duterte": 62717,
+                  "vicente_tito_sotto":11572,
+                  "kiko_pangilinan": 8270,
+                  "doc_willie_ong":2364,
+                  "lito_atienza":1051
+                }
+            }
+          },
+          {
+            "province": "Eastern Samar",
+            "city": {
+              "capital_city": "Borongan",
+              "biggest_city": "Guiuan"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 107415,
+                  "leni_robredo": 123868,
+                  "ping_lacson":2806,
+                  "isko_moreno_domagoso":8660,
+                  "manny_pacquiao":27365
+                },
+                "vice-president": {
+                  "sara_duterte": 119235,
+                  "vicente_tito_sotto":55418,
+                  "kiko_pangilinan": 66360,
+                  "doc_willie_ong":9348,
+                  "lito_atienza":1876
+                }
+            }
+          },
+          {
+            "province": "Leyte",
+            "city": {
+              "capital_city": "Tacloban",
+              "biggest_city": "Ormoc"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 641065,
+                  "leni_robredo": 99207,
+                  "ping_lacson":7990,
+                  "isko_moreno_domagoso":16448,
+                  "manny_pacquiao":61293
+                },
+                "vice-president": {
+                  "sara_duterte": 612140,
+                  "vicente_tito_sotto":88306,
+                  "kiko_pangilinan": 55002,
+                  "doc_willie_ong":13016,
+                  "lito_atienza":5051
+                }
+            }
+          },
+          {
+            "province": "Northern Samar",
+            "city": {
+              "capital_city": "Catarman",
+              "biggest_city": "Calbayog"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 127350,
+                  "leni_robredo": 159225,
+                  "ping_lacson":3069,
+                  "isko_moreno_domagoso":9973,
+                  "manny_pacquiao":34437
+                },
+                "vice-president": {
+                  "sara_duterte": 164707,
+                  "vicente_tito_sotto":56638,
+                  "kiko_pangilinan": 74720,
+                  "doc_willie_ong":10462,
+                  "lito_atienza":2279
+                }
+            }
+          },
+          {
+            "province": "Samar",
+            "city": {
+              "capital_city": "Catbalogan",
+              "biggest_city": "Calbayog"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 286876,
+                  "leni_robredo": 127020,
+                  "ping_lacson":3884,
+                  "isko_moreno_domagoso":9980,
+                  "manny_pacquiao":49446
+                },
+                "vice-president": {
+                  "sara_duterte": 280667,
+                  "vicente_tito_sotto":73027,
+                  "kiko_pangilinan": 90445,
+                  "doc_willie_ong":8943,
+                  "lito_atienza":2763
+                }
+            }
+          },
+          {
+            "province": "Southern Leyte",
+            "city": {
+              "capital_city": "Maasin",
+              "biggest_city": "Sogod"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 157970,
+                  "leni_robredo": 34560,
+                  "ping_lacson":2009,
+                  "isko_moreno_domagoso":18651,
+                  "manny_pacquiao":21598
+                },
+                "vice-president": {
+                  "sara_duterte": 187226,
+                  "vicente_tito_sotto":12203,
+                  "kiko_pangilinan": 19394,
+                  "doc_willie_ong":6087,
+                  "lito_atienza":1164
+                }
+            }
+          }
+        ]
+      },
+      {
+        "region": "Northern Mindanao",
+        "island": "Mindanao",
+        "provinces": [
+          {
+            "province": "Bukidnon",
+            "city": {
+              "capital_city": "Malaybalay",
+              "biggest_city": "Valencia"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 507556,
+                  "leni_robredo": 79452,
+                  "ping_lacson":7055,
+                  "isko_moreno_domagoso":15566,
+                  "manny_pacquiao":129784
+                },
+                "vice-president": {
+                  "sara_duterte": 595898,
+                  "vicente_tito_sotto":45320,
+                  "kiko_pangilinan": 48833,
+                  "doc_willie_ong":5978,
+                  "lito_atienza":6203
+                }
+            }
+          },
+          {
+            "province": "Camiguin",
+            "city": {
+              "capital_city": "Mambajao",
+              "biggest_city": "Mambajao"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 45321,
+                  "leni_robredo": 4591,
+                  "ping_lacson":232,
+                  "isko_moreno_domagoso":505,
+                  "manny_pacquiao":1717
+                },
+                "vice-president": {
+                  "sara_duterte": 49359,
+                  "vicente_tito_sotto":682,
+                  "kiko_pangilinan": 1823,
+                  "doc_willie_ong":285,
+                  "lito_atienza":57
+                }
+            }
+          },
+          {
+            "province": "Lanao del Norte",
+            "city": {
+              "capital_city": "Tubod",
+              "biggest_city": "Iligan"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 184332,
+                  "leni_robredo": 46647,
+                  "faisal_mangondato":20850,
+                  "isko_moreno_domagoso":7801,
+                  "manny_pacquiao":34548
+                },
+                "vice-president": {
+                  "sara_duterte": 229945,
+                  "vicente_tito_sotto":22018,
+                  "kiko_pangilinan": 23958,
+                  "doc_willie_ong":4860,
+                  "lito_atienza":1988
+                }
+            }
+          },
+          {
+            "province": "Misamis Occidental",
+            "city": {
+              "capital_city": "Oroquieta",
+              "biggest_city": "Ozamiz"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 254066,
+                  "leni_robredo": 32804,
+                  "ping_lacson":1777,
+                  "isko_moreno_domagoso":4496,
+                  "manny_pacquiao":46153
+                },
+                "vice-president": {
+                  "sara_duterte": 290984,
+                  "vicente_tito_sotto":13720,
+                  "kiko_pangilinan": 16692,
+                  "doc_willie_ong":2426,
+                  "lito_atienza":1792
+                }
+            }
+          },
+          {
+            "province": "Misamis Oriental",
+            "city": {
+              "capital_city": "Cagayan de Oro",
+              "biggest_city": "Cagayan de Oro"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 386706,
+                  "leni_robredo": 58306,
+                  "ping_lacson":4599,
+                  "isko_moreno_domagoso":12881,
+                  "manny_pacquiao":76766
+                },
+                "vice-president": {
+                  "sara_duterte": 440830,
+                  "vicente_tito_sotto":27330,
+                  "kiko_pangilinan": 36662,
+                  "doc_willie_ong":6500,
+                  "lito_atienza":3970
+                }
+            }
+          }
+        ]
+      },      
+      {
+        "region": "Davao Region",
+        "island": "Mindanao",
+        "provinces": [
+          {
+            "province": "Davao del Norte",
+            "city": {
+              "capital_city": "Tagum",
+              "biggest_city": "Tagum"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 470567,
+                  "leni_robredo": 39373,
+                  "ping_lacson":6826,
+                  "isko_moreno_domagoso":4844,
+                  "manny_pacquiao":30733
+                },
+                "vice-president": {
+                  "sara_duterte": 500116,
+                  "vicente_tito_sotto":33598,
+                  "kiko_pangilinan": 10494,
+                  "doc_willie_ong":3138,
+                  "lito_atienza":1712
+                }
+            }
+          },
+          {
+            "province": "Davao del Sur",
+            "city": {
+              "capital_city": "Digos",
+              "biggest_city": "Digos"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 290669,
+                  "leni_robredo": 19690,
+                  "ping_lacson":2837,
+                  "isko_moreno_domagoso":4125,
+                  "manny_pacquiao":36802
+                },
+                "vice-president": {
+                  "sara_duterte": 320131,
+                  "vicente_tito_sotto":14136,
+                  "kiko_pangilinan": 8542,
+                  "doc_willie_ong":2282,
+                  "lito_atienza":1635
+                }
+            }
+          },
+          {
+            "province": "Davao Occidental",
+            "city":{
+              "capital_city": "Malita",
+              "biggest_city": "Malita"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 102265,
+                  "leni_robredo": 2981,
+                  "faisal_mangondato":704,
+                  "isko_moreno_domagoso":723,
+                  "manny_pacquiao":30363
+                },
+                "vice-president": {
+                  "sara_duterte": 119019,
+                  "vicente_tito_sotto":4850,
+                  "kiko_pangilinan": 3199,
+                  "manny_lopez":1138,
+                  "lito_atienza":1345
+                }
+            }
+          },
+          {
+            "province": "Davao Oriental",
+            "city": {
+              "capital_city": "Mati",
+              "biggest_city": "Mati"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 233313,
+                  "leni_robredo": 19408,
+                  "ping_lacson":2410,
+                  "isko_moreno_domagoso":3978,
+                  "manny_pacquiao":49017
+                },
+                "vice-president": {
+                  "sara_duterte": 272927,
+                  "vicente_tito_sotto":12119,
+                  "kiko_pangilinan": 9838,
+                  "doc_willie_ong":1836,
+                  "lito_atienza":1924
+                }
+            }
+          },
+          {
+            "province": "Davao de Oro",
+            "city": {
+              "capital_city": "Nabunturan",
+              "biggest_city": "Nabunturan"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 343929,
+                  "leni_robredo": 22677,
+                  "ping_lacson":3925,
+                  "isko_moreno_domagoso":4258,
+                  "manny_pacquiao":41861
+                },
+                "vice-president": {
+                  "sara_duterte": 378850,
+                  "vicente_tito_sotto":15437,
+                  "kiko_pangilinan": 11027,
+                  "doc_willie_ong":2131,
+                  "lito_atienza":2193
+                }
+            }
+          }
+        ]
+      },
+      {
+        "region": "SOCCSKSARGEN",
+        "island": "Mindanao",
+        "provinces": [
+          {
+            "province": "Cotabato",
+            "city": {
+              "capital_city": "Kidapawan",
+              "biggest_city": "Midsayap"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 459066,
+                  "leni_robredo": 84962,
+                  "ping_lacson":7827,
+                  "isko_moreno_domagoso":15684,
+                  "manny_pacquiao":44987
+                },
+                "vice-president": {
+                  "sara_duterte": 549878,
+                  "vicente_tito_sotto":27764,
+                  "kiko_pangilinan": 24034,
+                  "doc_willie_ong":3717,
+                  "lito_atienza":2111
+                }
+            }
+          },
+          {
+            "province": "Sarangani",
+            "city": {
+              "capital_city": "Alabel",
+              "biggest_city": "Glan"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 78230,
+                  "leni_robredo": 13483,
+                  "faisal_mangondato":1358,
+                  "isko_moreno_domagoso":2118,
+                  "manny_pacquiao":16476
+                },
+                "vice-president": {
+                  "sara_duterte": 184130,
+                  "vicente_tito_sotto":26220,
+                  "kiko_pangilinan": 14816,
+                  "doc_willie_ong":3080,
+                  "lito_atienza":4919
+                }
+            }
+          },
+          {
+            "province": "South Cotabato",
+            "city": {
+              "capital_city": "Koronadal",
+              "biggest_city": "Polomolok"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 323846,
+                  "leni_robredo": 67139,
+                  "ping_lacson":6450,
+                  "isko_moreno_domagoso":9361,
+                  "manny_pacquiao":79636
+                },
+                "vice-president": {
+                  "sara_duterte": 367571,
+                  "vicente_tito_sotto":44400,
+                  "kiko_pangilinan": 48693,
+                  "doc_willie_ong":7679,
+                  "lito_atienza":4195
+                }
+            }
+          },
+          {
+            "province": "Sultan Kudarat",
+            "city": {
+              "capital_city": "Isulan",
+              "biggest_city": "Tacurong"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 252954,
+                  "leni_robredo": 64834,
+                  "faisal_mangondato":4228,
+                  "isko_moreno_domagoso":10506,
+                  "manny_pacquiao":31672
+                },
+                "vice-president": {
+                  "sara_duterte": 306769,
+                  "vicente_tito_sotto":23406,
+                  "kiko_pangilinan": 23854,
+                  "doc_willie_ong":3062,
+                  "lito_atienza":1674
+                }
+            }
+          }
+        ]
+      },
+      {
+        "region": "Caraga",
+        "island": "Mindanao",
+        "provinces": [
+          {
+            "province": "Agusan del Norte",
+            "city": {
+              "capital_city": "Cabadbaran",
+              "biggest_city": "Butuan"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 166592,
+                  "leni_robredo": 21342,
+                  "ping_lacson":1162,
+                  "isko_moreno_domagoso":2537,
+                  "manny_pacquiao":26180
+                },
+                "vice-president": {
+                  "sara_duterte": 188762,
+                  "vicente_tito_sotto":7788,
+                  "kiko_pangilinan": 10466,
+                  "doc_willie_ong":1670,
+                  "lito_atienza":2125
+                }
+            }
+          },
+          {
+            "province": "Agusan del Sur",
+            "city": {
+              "capital_city": "Prosperidad",
+              "biggest_city": "Bayugan"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 152029,
+                  "leni_robredo": 144176,
+                  "ernie_abella":1598,
+                  "isko_moreno_domagoso":2767,
+                  "manny_pacquiao":35882
+                },
+                "vice-president": {
+                  "sara_duterte": 293717,
+                  "vicente_tito_sotto":14468,
+                  "kiko_pangilinan": 13570,
+                  "doc_willie_ong":1796,
+                  "lito_atienza":2005
+                }
+            }
+          },
+          {
+            "province": "Dinagat Islands",
+            "city": {
+              "capital_city": "San Jose",
+              "biggest_city": "Loreto"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 45653,
+                  "leni_robredo": 10555,
+                  "ping_lacson":276,
+                  "isko_moreno_domagoso":595,
+                  "manny_pacquiao":3191
+                },
+                "vice-president": {
+                  "sara_duterte": 49763,
+                  "vicente_tito_sotto":1988,
+                  "kiko_pangilinan": 6300,
+                  "doc_willie_ong":402,
+                  "lito_atienza":210
+                }
+            }
+          },
+          {
+            "province": "Surigao del Norte",
+            "city": {
+              "capital_city": "Surigao City",
+              "biggest_city": "Placer"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 219284,
+                  "leni_robredo": 44578,
+                  "ping_lacson":3146,
+                  "isko_moreno_domagoso":5020,
+                  "manny_pacquiao":29949
+                },
+                "vice-president": {
+                  "sara_duterte": 285399,
+                  "vicente_tito_sotto":12263,
+                  "kiko_pangilinan": 19741,
+                  "doc_willie_ong":3037,
+                  "lito_atienza":1499
+                }
+            }
+          },
+          {
+            "province": "Surigao del Sur",
+            "city": {
+              "capital_city": "Tandag",
+              "biggest_city": "Bislig"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 249177,
+                  "leni_robredo": 45812,
+                  "ping_lacson":2861,
+                  "isko_moreno_domagoso":6079,
+                  "manny_pacquiao":58632
+                },
+                "vice-president": {
+                  "sara_duterte": 301080,
+                  "vicente_tito_sotto":20473,
+                  "kiko_pangilinan": 24178,
+                  "doc_willie_ong":3324,
+                  "lito_atienza":2623
+                }
+            }
+          }
+        ]
+      },
+      {
+        "region": "Bangsamoro Autonomous Region in Muslim Mindanao",
+        "island": "Mindanao",
+        "provinces": [
+          {
+            "province": "Basilan",
+            "city": {
+              "capital_city": "Isabela City",
+              "biggest_city": "Lamitan"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 141064,
+                  "leni_robredo": 50373,
+                  "faisal_mangondato":3779,
+                  "isko_moreno_domagoso":3575,
+                  "manny_pacquiao":3831
+                },
+                "vice-president": {
+                  "sara_duterte": 169364,
+                  "vicente_tito_sotto":7125,
+                  "kiko_pangilinan": 19962,
+                  "doc_willie_ong":875,
+                  "manny_lopez":382
+                }
+            }
+          },
+          {
+            "province": "Lanao del Norte",
+            "city": {
+              "capital_city": "Tubod",
+              "biggest_city": "Iligan"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 184332,
+                  "leni_robredo": 46647,
+                  "faisal_mangondato":20850,
+                  "isko_moreno_domagoso":7801,
+                  "manny_pacquiao":34548
+                },
+                "vice-president": {
+                  "sara_duterte": 229945,
+                  "vicente_tito_sotto":22018,
+                  "kiko_pangilinan": 23958,
+                  "doc_willie_ong":4860,
+                  "lito_atienza":1988
+                }
+            }
+          },
+          {
+            "province": "Lanao del Sur",
+            "city": {
+              "capital_city": "Marawi",
+              "biggest_city": "Malabang"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 107544,
+                  "leni_robredo": 103960,
+                  "faisal_mangondato":143034,
+                  "isko_moreno_domagoso":23222,
+                  "manny_pacquiao":5866
+                },
+                "vice-president": {
+                  "sara_duterte": 264497,
+                  "vicente_tito_sotto":22732,
+                  "kiko_pangilinan": 43763,
+                  "doc_willie_ong":22525,
+                  "lito_atienza":2355
+                }
+            }
+          },
+          {
+            "province": "Maguindanao",
+            "city": {
+              "capital_city": "Shariff Aguak",
+              "biggest_city": "Buluan"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 277301,
+                  "leni_robredo": 231960,
+                  "faisal_mangondato":9089,
+                  "isko_moreno_domagoso":19122,
+                  "manny_pacquiao":12933
+                },
+                "vice-president": {
+                  "sara_duterte": 514636,
+                  "vicente_tito_sotto":8212,
+                  "kiko_pangilinan": 17804,
+                  "doc_willie_ong":2341,
+                  "manny_lopez":1402
+                }
+            }
+          },
+          {
+            "province": "Sulu",
+            "city": {
+              "capital_city": "Jolo",
+              "biggest_city": "Parang"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 313281,
+                  "leni_robredo": 9507,
+                  "faisal_mangondato":770,
+                  "isko_moreno_domagoso":1411,
+                  "manny_pacquiao":1716
+                },
+                "vice-president": {
+                  "sara_duterte": 318250,
+                  "vicente_tito_sotto":1893,
+                  "kiko_pangilinan": 4895,
+                  "doc_willie_ong":386,
+                  "manny_lopez":207
+                }
+            }
+          },
+          {
+            "province": "Tawi-Tawi",
+            "city": {
+              "capital_city": "Bongao",
+              "biggest_city": "Sitangkai"
+            },
+            "results": {
+                "president": {
+                  "bongbong_marcos": 143361,
+                  "leni_robredo": 13557,
+                  "faisal_mangondato":1561,
+                  "isko_moreno_domagoso":2884,
+                  "manny_pacquiao":11523
+                },
+                "vice-president": {
+                  "sara_duterte": 68685,
+                  "vicente_tito_sotto":9885,
+                  "kiko_pangilinan": 6867,
+                  "doc_willie_ong":2590,
+                  "lito_atienza":289
+                }
+            }
+          }
+        ]
+      }
+    ]
+  }
